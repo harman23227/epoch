@@ -3,6 +3,7 @@
 }
 
 .harrykadabba {
+    padding-left: 30%;
     display: flex;
     flex-direction: column; /* Align content vertically */
     justify-content: center; /* Center content horizontally */
