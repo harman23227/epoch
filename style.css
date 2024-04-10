@@ -1,18 +1,16 @@
-.btn btn-primary{
-    margin: auto;
-}
 
+<<<<<<< HEAD
+
+#harrykadabba {
+    display: flex block;
+=======
 .harrykadabba {
     padding-left: 30%;
     display: flex;
+>>>>>>> 11284ee75bf4604b3bf2de9637f627e622c764be
     flex-direction: column; /* Align content vertically */
-    justify-content: center; /* Center content horizontally */
-    align-items: center; /* Center content vertically */
-    height: 100vh; /* Set height to occupy full viewport height */
-    align-self: center;
-    text-align: center;
     border: 3px solid green;
-    margin-left: 0 auto;
+    margin-left: 1000px;
 
   }
   
