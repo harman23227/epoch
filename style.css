@@ -1,7 +1,13 @@
 
+<<<<<<< HEAD
 
 #harrykadabba {
     display: flex block;
+=======
+.harrykadabba {
+    padding-left: 30%;
+    display: flex;
+>>>>>>> 11284ee75bf4604b3bf2de9637f627e622c764be
     flex-direction: column; /* Align content vertically */
     border: 3px solid green;
     margin-left: 1000px;
